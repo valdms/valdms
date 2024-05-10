@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Valdemir
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning (I´m studying this language at moment)
+- 👀 I’m interested in Python, Angular, MySql - Backend and Frontend 
+- 🌱 I’m currently learning (I´m learning about Angular and developing some tests to learn more about this web language)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me valdemir911@hotmail.com
 
